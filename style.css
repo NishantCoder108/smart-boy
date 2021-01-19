@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.headC img {
+  height: 70vh;
+  width: 100%;
+}
+
+#header_top {
+  background-color: #adeecf;
+}
+#header_top a {
+  color: #1100ff;
+}
+
+.back {
+  background-color: #b5d7f8;
+}
+
+/* Testimonials  */
+
+.testimonials-image {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.carau {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #adeecf;
+}
